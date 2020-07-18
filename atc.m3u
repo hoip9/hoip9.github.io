@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,美国Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 ,美国Fox News Talk Radio
-http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
-
 #EXTINF:-1 ,CCTV-1-高清
 http://172.16.1.254:11111/rtp/239.253.254.77:8000
 #EXTINF:-1 ,CCTV-2-高清
