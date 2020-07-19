@@ -2,7 +2,7 @@
 #EXTINF:-1 ,Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 ,Bloomberg TV US
-http://hoip9.github.io/a.m3u8
+https://hoip9.github.io/a.m3u8
 #EXTINF:-1 ,CCTV-1-高清
 http://172.16.1.254:11111/rtp/239.253.254.77:8000
 #EXTINF:-1 ,CCTV-2-高清
