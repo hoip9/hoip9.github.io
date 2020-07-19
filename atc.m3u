@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,Bloomberg TV Europe
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 ,Bloomberg TV US
-https://hoip9.github.io/a.m3u8
+#EXTINF:-1 ,Bloomberg TV US 
+#EXT-X-STREAM-INF:BANDWIDTH=2400000,RESOLUTION=1280x720,CODECS="avc1.640020,mp4a.40.2"
+https://dai.google.com/linear/hls/pb/event/BVlOmFGaTi6NpchccR14yA/stream/f155e2ac-2cc0-44e9-af70-fedfe3836090:TPE/variant/8927a9cea8333e5444f5ce266a0739dd/bandwidth/2400000.m3u8
 #EXTINF:-1 ,CCTV-1-高清
 http://172.16.1.254:11111/rtp/239.253.254.77:8000
 #EXTINF:-1 ,CCTV-2-高清
